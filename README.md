@@ -1,12 +1,8 @@
 <h1 align="center">Hey there! 👋</h1>
-<h2 align="left">Welcome to my profile! </h2>
 
 <h3 align="left"> About Me </h3>
-    I go by the name Semih and I'm a computer engineer based in Istanbul/Turkey. I mostly develop web applications but I am passionate about creating mobile and desktop apps too.
+    I'm Semih and I'm a computer engineer based in Istanbul/Turkey. I mostly develop web applications but I am passionate about creating mobile apps too.
 
-    
-
-- 🌱 I’m currently learning **Microservice architecture / Containerization technologies**
 
 - 📫 You can reach me from here:  **semih.tavukcu@outlook.com**
 
